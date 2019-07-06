@@ -1,24 +1,22 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(1).pdf" style="text-decoration:none;">jQuery Recipes </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(2).pdf" style="text-decoration:none;">Beginning JQuery</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(3).pdf" style="text-decoration:none;">JQuery: Novice to Ninja</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(1).pdf" style="text-decoration:none;">Begin to Code with C# </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(2).pdf" style="text-decoration:none;">Beginning C# Object-Oriented Programming</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(3).pdf" style="text-decoration:none;">C# Succinctly</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(4).pdf" style="text-decoration:none;">jQuery For Dummies</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(5).pdf" style="text-decoration:none;">jQuery in Action</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(4).pdf" style="text-decoration:none;">C# in Depth</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(5).pdf" style="text-decoration:none;">C# Programming Yellow Book</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(6).pdf" style="text-decoration:none;">jQuery Mobile Web Development Essentials</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(6).pdf" style="text-decoration:none;">C# Essentials</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(7).pdf" style="text-decoration:none;">jQuery UI 1.6: The User Interface Library for jQuery</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(8).pdf" style="text-decoration:none;">jQuery UI in Action </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(9).pdf" style="text-decoration:none;">jQuery Cookbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(7).pdf" style="text-decoration:none;">Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(8).rar" style="text-decoration:none;">Head First C# </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(9).pdf" style="text-decoration:none;">Learning C# by Developing Games with Unity 3D Beginner's Guide</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(10).pdf" style="text-decoration:none;">Learning from jQuery</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(10).pdf" style="text-decoration:none;">The Art of Unit Testing WITH EXAMPLES IN C#</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(11).pdf" style="text-decoration:none;">Learning jQuery</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(12).rar" style="text-decoration:none;">Mastering jQuery</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(13).pdf" style="text-decoration:none;">jQuery: Pocket Reference</a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(14).pdf" style="text-decoration:none;">Practical jQuery</a></b></li>  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(15).pdf" style="text-decoration:none;">Professional jQuery</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/jQuery-Books/blob/master/jquery(16).pdf" style="text-decoration:none;">Smashing jQuery</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(11).pdf" style="text-decoration:none;">STARTING OUT WITH Visual C# 2012</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(12).pdf" style="text-decoration:none;">Threading in C#</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(13).pdf" style="text-decoration:none;">C# in a Nutshell</a></b></li>  
+ 
                                 
 </ul>
