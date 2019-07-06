@@ -18,5 +18,22 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(12).pdf" style="text-decoration:none;">Threading in C#</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(13).pdf" style="text-decoration:none;">C# in a Nutshell</a></b></li>  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(14).pdf" style="text-decoration:none;">Learn C#: Includes the C# 3.0 Features</a></b></li>
                                 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(15).pdf" style="text-decoration:none;">Network Programming in .NET With C# and Visual Basic .NET</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(16).pdf" style="text-decoration:none;">C# 5.0: Pocket Reference</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(17).pdf" style="text-decoration:none;">C# 2005 For Dummies</a></b></li>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
