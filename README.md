@@ -25,7 +25,10 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(16).pdf" style="text-decoration:none;">C# 5.0: Pocket Reference</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(17).pdf" style="text-decoration:none;">C# 2005 For Dummies</a></b></li>
 
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(18).pdf" style="text-decoration:none;">Illustrated C# 2008</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(19).pdf" style="text-decoration:none;">TCP/IP Sockets in C#: Practical Guide for Programmers</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Sharp-Programming-Books/blob/master/csharp(20).pdf" style="text-decoration:none;">C#: How To Program</a></b></li>
  
  
  
